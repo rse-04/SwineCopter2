@@ -1,4 +1,5 @@
 local comp = require('component')
+--роблокс топ😎
 local modem = comp.modem
 local term = require("term")
 local event = require("event")
